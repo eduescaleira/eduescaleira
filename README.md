@@ -2,7 +2,7 @@
 ### I'm a tech lover, passionate about programming and technology content!
 
 
-- 📍 From São Paulo (Brasil)
+- 📍 From São Paulo, Brazil
 - 💻 Currently studying Python and Linux
 - 👨‍💻 iOS developer
 - 🏃🏼 Runner
