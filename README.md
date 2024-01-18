@@ -1,13 +1,11 @@
 ### Hello all, Edu Escaleira here! 👋
 ### I'm a tech lover, passionate about programming and technology content!
 
-
+- 💻 Currently improving my studies in: JavaScript
 - 📍 From São Paulo, Brazil
-- 💻 Currently studying Python and Linux
 - 👨‍💻 iOS developer
 - 🏃🏼 Runner
 
- 
 <div> 
 
   
