@@ -15,9 +15,6 @@
   <img alt="Edu Escaleira | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/eduardo-escaleira/" target="_blank">
-<img alt="Edu Escaleira | Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/eduardo-escaleira/" target="_blank">
 <img alt="Edu Escaleira | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 <a href="mailto:duescaleira@gmail.com">
