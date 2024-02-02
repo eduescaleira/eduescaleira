@@ -1,4 +1,4 @@
-### Hello all, Edu Escaleira here! 👋
+### Hello world, Edu Escaleira here! 👋
 ### I'm a tech lover, passionate about programming and technology content!
 
 - 💻 Currently improving my studies in: JavaScript
