@@ -1,7 +1,7 @@
 ### Hello world, Edu Escaleira here! 👋
 ### I'm a tech lover, passionate about programming and technology content!
 
-- 💻 Currently improving my studies in: JavaScript
+- 💻 Currently improving my studies in: Web development 
 - 📍 From São Paulo, Brazil
 - 👨‍💻 iOS developer
 - 🏃🏼 Runner
